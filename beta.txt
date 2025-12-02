@@ -1,0 +1,24 @@
+Nombre: Ignacio Villalba
+ipconfig: Configuraci▒n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec▒fico para la conexi▒n. . :
+   Direcci▒n IPv6 . . . . . . . . . . : 2802:8010:6233:7501:8991:a7cb:9a70:2729
+   Direcci▒n IPv6 temporal. . . . . . : 2802:8010:6233:7501:c846:b023:c9c5:480
+   V▒nculo: direcci▒n IPv6 local. . . : fe80::6882:cf5f:d528:6e74%14
+   Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.1.38
+   M▒scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::a33:edff:fe73:2030%14
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec▒fico para la conexi▒n. . :
+   V▒nculo: direcci▒n IPv6 local. . . : fe80::f085:9bc8:e2e7:a37e%7
+   Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Mascara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Hora: 14:18
